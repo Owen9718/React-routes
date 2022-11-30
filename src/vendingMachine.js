@@ -1,4 +1,4 @@
-import { React, useState } from "react";
+import { React } from "react";
 import { BrowserRouter, Route, Link } from "react-router-dom";
 import Home from "./home";
 import Soda from "./soda";
